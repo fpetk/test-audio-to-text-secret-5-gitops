@@ -1,0 +1,7 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: test-audio-to-text-secret-5-database-config
+data:
+  VECTORDB_HOST: "test-audio-to-text-secret-5-database"
+  VECTORDB_PORT: ""
