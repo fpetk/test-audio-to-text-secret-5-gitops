@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: quay.io/tpetkos/test-audio-to-text-secret-5:00ce780cf41899044297bdcdafe601d28cbc2346@sha256:14cc09c7e01eba6808615f56b5498a8befd2d00a547c5e31d20a2397aec0d516 # use pre-built to bootstrap 
+        - image: quay.io/tpetkos/test-audio-to-text-secret-5:00ce780cf41899044297bdcdafe601d28cbc2346@sha256:3eb95acbce1bd784c62d000bea54989821277c016f140fea8fc65679604a74bc # use pre-built to bootstrap 
           name: app-inference
